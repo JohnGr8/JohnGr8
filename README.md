@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm just a half-wit software developer who like the rest of them , thinks he knows more than the other f'wits. So in short there is really nothing to see here!!
+
 <!--
 **JohnGr8/JohnGr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
